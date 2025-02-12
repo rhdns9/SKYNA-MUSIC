@@ -69,7 +69,6 @@
             "value": "5366532807",
             "required": true
         }
-        
     },
     "addons": [],
     "buildpacks": [
@@ -88,5 +87,8 @@
             "quantity": 1,
             "size": "free"
         }
+    },
+    "engines": {
+        "node": "20.x"
     }
 }
